@@ -1,6 +1,6 @@
 cinch-news
 ==========
-[![Gem Version](https://badge.fury.io/rb/cinch-news.png)](http://badge.fury.io/rb/cinch-news)
+[![Gem Version](https://badge.fury.io/rb/cinch-news.png)](http://badge.fury.io/rb/cinch-news) [![Dependency Status](https://gemnasium.com/RawrNet/cinch-isitup.png)](https://gemnasium.com/RawrNet/cinch-isitup)
 
 A news gem/plugin for the Cinch IRC bot framework.
 
