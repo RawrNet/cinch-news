@@ -23,3 +23,6 @@ You can install your gem as follows:
     gem install cinch-news
 
   [1]: http://developer.usatoday.com/
+  
+  
+To see this gem in action visit #Lobby on irc://rawr.sinsira.net
