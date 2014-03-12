@@ -1,5 +1,6 @@
 cinch-news
 ==========
+[![Gem Version](https://badge.fury.io/rb/cinch-news.png)](http://badge.fury.io/rb/cinch-news)
 
 A news gem/plugin for the Cinch IRC bot framework.
 
